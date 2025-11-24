@@ -52,9 +52,23 @@ Git • GitHub (private repo) • Hostinger (deployment) • VS Code
 ---
 
 ### 🖼️ Visual Preview
-
+<h2>Home Page</h2>
 <p align="center">
-  <i>Screenshots coming soon.</i>
+    <img src="screenshot/dojeitodelaah.com.br_index.html.png"
+       alt="DoJeitoDeLaah homepage preview"
+       width="900">
+</p>
+<h2>About Page</h2>
+<p align="center">
+    <img src="screenshot/dojeitodelaah.com.br_about.html.png"
+       alt="DoJeitoDeLaah homepage preview"
+       width="900">
+</p>
+<h2>Booking Page</h2>
+<p align="center">
+    <img src="screenshot/dojeitodelaah.com.br_agendamento.html.png"
+       alt="DoJeitoDeLaah homepage preview"
+       width="900">
 </p>
 
 
